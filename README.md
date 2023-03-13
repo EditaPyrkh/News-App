@@ -1,6 +1,6 @@
 # News-App 
 
-Collects and displays news by country, language and category using AJAX and API tokens via apinews.org
+Collects and displays news by country, language and category using materialize framework and API tokens via apinews.org
 
 ![IMG_4235 (1) (online-video-cutter com)](https://user-images.githubusercontent.com/113599547/224672526-e0dc2eb7-4747-48f9-836e-75869afbf032.gif)
 
